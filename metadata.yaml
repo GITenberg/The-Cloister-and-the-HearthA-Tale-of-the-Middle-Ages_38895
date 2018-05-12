@@ -1,0 +1,42 @@
+_repo: The-Cloister-and-the-HearthA-Tale-of-the-Middle-Ages_38895
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Paul, Evelyn
+    birthdate: 1883
+    deathdate: 1963
+    gutenberg_agent_id: '6441'
+    url: http://www.gutenberg.org/2009/agents/6441
+    wikipedia: http://en.wikipedia.org/wiki/Evelyn_Paul
+covers:
+- cover_type: archival
+  image_path: 38895-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Reade, Charles
+    birthdate: 1814
+    deathdate: 1884
+    gutenberg_agent_id: '618'
+    url: http://www.gutenberg.org/2009/agents/618
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Reade
+description: This 1861 historical romance was Reade's most popular novel with readers
+  and critics alike. Set in the 15th century, and notable for the author's painstaking
+  fidelity to period detail, the novel concerns the adventures of a young illuminator
+  of manuscripts, Gerard Eliason, as he travels through Europe and embraces then renounces
+  a religious vocation.
+gutenberg_issued: '2012-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38895'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'Middle Ages -- Fiction'
+- !lcsh 'Netherlands -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Historical fiction'
+title: 'The Cloister and the Hearth: A Tale of the Middle Ages'
+url: http://www.gutenberg.org/ebooks/38895
